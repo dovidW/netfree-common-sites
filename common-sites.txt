@@ -8,6 +8,14 @@
     https://mail.google.com/
     https://ssl.gstatic.com/ui/v1/icons/mail/images/favicon5.ico
 
+    איתור מיקוד
+    http://www.israelpost.co.il/zipcode.nsf/demozip
+    http://www.israelpost.co.il/favicon.ico?v=2
+    
+    144
+    http://www.b144.co.il/
+    http://www.b144.co.il/favicon.ico
+    
 %% בנקים
 
     בנק הפועלים
@@ -40,4 +48,12 @@
     http://www.93fm.co.il/
     http://www.93fm.co.il/favicon.ico
     
+%% חדשות כלכלה-טכנלוגיה
+   
+   ביזפורטל
+   http://www.bizportal.co.il/
+   http://www.bizportal.co.il/Content/themes/base/images/favicon.ico
+   
+   
+
     
